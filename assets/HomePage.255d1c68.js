@@ -1,1 +1,0 @@
-import{Q as e}from"./QPage.bdcb28ba.js";import{_ as a,d as t,Z as o,$ as s,a0 as r,a1 as n}from"./index.76977c86.js";const c=t({name:"HomePage"}),_=n("div",{class:"text-h4"},"THIS PAGE IS FOR HOMEPAGE, COMING SOON...",-1);function d(p,f,i,m,l,u){return o(),s(e,null,{default:r(()=>[_]),_:1})}var P=a(c,[["render",d]]);export{P as default};
