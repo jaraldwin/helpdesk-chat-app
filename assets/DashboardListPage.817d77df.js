@@ -1,1 +1,0 @@
-import{Q as a}from"./QPage.bdcb28ba.js";import{_ as e,Z as t,$ as s,a0 as o,a1 as r}from"./index.76977c86.js";const c={},_=r("div",{class:"text-h4"}," THIS PAGE IS FOR DASHBOARD LIST VIEW, COMING SOON... ",-1);function n(d,i,p,f,l,u){return t(),s(a,null,{default:o(()=>[_]),_:1})}var x=e(c,[["render",n]]);export{x as default};
